@@ -49,7 +49,7 @@ Shoulder Angel only pays off if the agent has **no other way to write**. Three s
 
 In the chat tool picker, make sure both tools are checked:
 
-![Shoulder Angel tools enabled in the tool picker](assets/imgs/enabled_angel.png)
+<img width="634" height="234" alt="image" src="https://github.com/user-attachments/assets/ebbffb32-1829-4d88-b3a4-4027964a13a7" />
 
 ### 2. Disable the built-in `edit` tool
 
@@ -63,7 +63,8 @@ Leave `read`, `search`, `execute` and the rest enabled — Shoulder Angel only r
 
 Counter-intuitive, but correct: once writing is gated behind a human-reviewed diff, per-call approval prompts are pure friction. Let the agent run, and review where it actually counts.
 
-![Permissions menu with Allow all selected](assets/imgs/enable-allow-all.png)
+<img width="634" height="234" alt="image" src="https://github.com/user-attachments/assets/9ce07dce-78ee-482a-be9f-6cebc3c140d1" />
+
 
 > With this combination the agent works at full speed, and every single byte it wants to write still stops in front of you first.
 
