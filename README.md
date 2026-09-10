@@ -49,13 +49,13 @@ Shoulder Angel only pays off if the agent has **no other way to write**. Three s
 
 In the chat tool picker, make sure both tools are checked:
 
-<img width="633" height="71" alt="image" src="https://github.com/user-attachments/assets/a6e6a94f-94af-4038-a5fe-2a41f3a54e88" />
+<img width="633" height="71" alt="image" src="https://github.com/user-attachments/assets/9f7ef7ac-8aec-4bf2-afb2-7b48c13b0679" />
 
 ### 2. Disable the built-in `edit` tool
 
 This is the step that matters most. Uncheck the built-in **edit** tool so the agent's only remaining path to your files is a proposal:
 
-![Built-in edit tool unchecked](assets/imgs/disabled-native-edit_devil.png)
+<img width="634" height="234" alt="image" src="https://github.com/user-attachments/assets/2e2eba34-e024-4fa8-ba22-f5211355bb1d" />
 
 Leave `read`, `search`, `execute` and the rest enabled — Shoulder Angel only replaces *writing*, never reading. If the built-in `edit` tool stays on, the agent will happily use it and bypass review entirely.
 
@@ -63,7 +63,7 @@ Leave `read`, `search`, `execute` and the rest enabled — Shoulder Angel only r
 
 Counter-intuitive, but correct: once writing is gated behind a human-reviewed diff, per-call approval prompts are pure friction. Let the agent run, and review where it actually counts.
 
-<img width="633" height="71" alt="image" src="https://github.com/user-attachments/assets/10fdafa7-4d03-4b79-ade0-97d2469f9947" />
+<img width="621" height="496" alt="image" src="https://github.com/user-attachments/assets/430a9d4e-6f2b-4073-8979-8ff65a90e1c9" />
 
 
 > With this combination the agent works at full speed, and every single byte it wants to write still stops in front of you first.
