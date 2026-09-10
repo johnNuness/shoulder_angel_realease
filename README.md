@@ -21,7 +21,7 @@ Downloads the latest `.vsix` to a temp file and installs it into VS Code in a si
 
 ```bash
 curl -fsSL -o /tmp/shoulder-angel.vsix \
-  https://github.com/johnNuness/shoulder_angel_realease/releases/latest/download/shoulder-angel.vsix \
+  https://github.com/johnNuness/shoulder_angel_realease/releases/latest/download/shoulder-angel-1.0.0.vsix \
 && code --install-extension /tmp/shoulder-angel.vsix
 ```
 
