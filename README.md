@@ -1,4 +1,7 @@
-# Shoulder Angel 👼
+# Shoulder Angel 
+
+<img width="1024" height="559" alt="image" src="https://github.com/user-attachments/assets/6e66184a-de29-4277-98f4-7907606e5540" />
+
 
 **Pair editing and approval facade for VS Code language model tools.**
 
@@ -54,7 +57,7 @@ To reinstall over an existing version, just re-run the install command above —
 
 **This artifact is provided free of charge.**
 
-Shoulder Angel is proprietary software: this repository distributes only the compiled, packaged extension (`.vsix`) for free personal and commercial use as an installed VS Code extension. The underlying source code is **not** open source and is **not** included here.
+Shoulder Angel is proprietary software: this repository distributes only the compiled, packaged extension (`.vsix`) for free personal and commercial use as an installed VS Code extension.
 
 You are free to:
 - Download and install this artifact at no cost.
@@ -62,8 +65,6 @@ You are free to:
 
 You may **not**, without prior written authorization from the copyright holder:
 - Redistribute, sell, or sublicense this artifact.
-- Reverse engineer, decompile, or disassemble the extension.
-- Modify or create derivative works based on it.
 
 THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER LIABILITY ARISING FROM THE USE OF THIS SOFTWARE.
 
