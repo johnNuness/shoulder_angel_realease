@@ -49,7 +49,7 @@ Shoulder Angel only pays off if the agent has **no other way to write**. Three s
 
 In the chat tool picker, make sure both tools are checked:
 
-<img width="634" height="234" alt="image" src="https://github.com/user-attachments/assets/ebbffb32-1829-4d88-b3a4-4027964a13a7" />
+<img width="633" height="71" alt="image" src="https://github.com/user-attachments/assets/a6e6a94f-94af-4038-a5fe-2a41f3a54e88" />
 
 ### 2. Disable the built-in `edit` tool
 
