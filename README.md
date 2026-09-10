@@ -63,7 +63,7 @@ Leave `read`, `search`, `execute` and the rest enabled — Shoulder Angel only r
 
 Counter-intuitive, but correct: once writing is gated behind a human-reviewed diff, per-call approval prompts are pure friction. Let the agent run, and review where it actually counts.
 
-<img width="634" height="234" alt="image" src="https://github.com/user-attachments/assets/9ce07dce-78ee-482a-be9f-6cebc3c140d1" />
+<img width="633" height="71" alt="image" src="https://github.com/user-attachments/assets/10fdafa7-4d03-4b79-ade0-97d2469f9947" />
 
 
 > With this combination the agent works at full speed, and every single byte it wants to write still stops in front of you first.
