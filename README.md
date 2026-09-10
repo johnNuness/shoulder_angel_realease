@@ -51,11 +51,14 @@ In the chat tool picker, make sure both tools are checked:
 
 <img width="633" height="71" alt="image" src="https://github.com/user-attachments/assets/9f7ef7ac-8aec-4bf2-afb2-7b48c13b0679" />
 
-### 2. Disable the built-in `edit` tool
+### 2. Disable the built-in CreateFile and EditFiles tools
 
-This is the step that matters most. Uncheck the built-in **edit** tool so the agent's only remaining path to your files is a proposal:
+This is the most important step. Deselect the built-in **CreateFile** and **EditFiles** tools so that the only remaining way for the agent to access your files is via a proposal:
 
-<img width="634" height="234" alt="image" src="https://github.com/user-attachments/assets/2e2eba34-e024-4fa8-ba22-f5211355bb1d" />
+<img width="412" height="144" alt="image" src="https://github.com/user-attachments/assets/7ecc5910-8029-468c-b2ee-93d9f6d45095" />
+
+
+<img width="600" height="160" alt="image" src="https://github.com/user-attachments/assets/46a097bc-bc86-4a16-a803-7bd1e3ad1401" />
 
 Leave `read`, `search`, `execute` and the rest enabled — Shoulder Angel only replaces *writing*, never reading. If the built-in `edit` tool stays on, the agent will happily use it and bypass review entirely.
 
