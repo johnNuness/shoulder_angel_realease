@@ -1,0 +1,45 @@
+Freeware Binary Distribution License
+
+Copyright (c) 2026 Shoulder Angel Contributors. All rights reserved.
+
+This repository distributes a compiled, packaged binary artifact (the
+".vsix package") of the Shoulder Angel VS Code extension free of charge.
+The underlying source code is proprietary and is NOT included in or
+covered by this repository.
+
+Grant of Rights
+
+Subject to the restrictions below, the copyright holder grants any person
+obtaining the .vsix package a worldwide, royalty-free, non-exclusive
+license to:
+
+- download and install the package for personal or commercial use as a
+  Visual Studio Code extension;
+- use the installed extension without payment or time restriction.
+
+Restrictions
+
+Unless you have received prior written authorization from the copyright
+holder, you may NOT:
+
+- redistribute, mirror, sell, rent, or sublicense the .vsix package or
+  any part of it;
+- reverse engineer, decompile, or disassemble the package;
+- modify the package or create derivative works based on it;
+- extract, republish, or reuse the source code embedded in the package.
+
+No Source License
+
+This license covers the compiled artifact only. No rights to the
+underlying source code are granted, implied, or to be inferred from the
+availability of this binary.
+
+Disclaimer
+
+THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR
+IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY,
+FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE
+AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
+LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
+OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
+SOFTWARE.
